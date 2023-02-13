@@ -1,3 +1,4 @@
+docker buildと実行
 ```
 docker build -t ts-sample
 ```
